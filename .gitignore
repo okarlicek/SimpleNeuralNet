@@ -4,4 +4,6 @@ build/
 /.vs
 .idea/
 CMakeSettings.json
+
 libs/*
+!libs/.gitkeep
